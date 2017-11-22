@@ -6,9 +6,9 @@ using UnityEngine.UI;
 
 public class _02_LoadScene : MonoBehaviour {
 	
-	public void LoadSceneByClick(int sceneNo){
+	public void LoadSceneByClick(string sceneName){
 
-		SceneManager.LoadScene (sceneNo);
+		SceneManager.LoadScene (sceneName);
 
 
 	}

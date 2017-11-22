@@ -11,3 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01_Scenes/StageMenu.unity
     guid: bbf765239beee4dbd9aa53377787d8cb
+  - enabled: 1
+    path: Assets/01_Scenes/OfficeStory.unity
+    guid: 6e293a625da424cbd8a3364244f1a25d
+  - enabled: 1
+    path: Assets/01_Scenes/OfficeGame.unity
+    guid: 0d5e110b6738d4965a9f6a957f66ab76
